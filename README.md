@@ -2,6 +2,12 @@
 
 Bienvenue dans le Jeu de Devinette de Nombres ! Ce jeu simple vous met au défi de deviner un nombre généré aléatoirement par le système.
 
+## Versions
+
+Le fichier index.js est la première version ; il permet d'effectuer une seule partie.
+
+Le fichier index2.js est la seconde version ; il permet d'enchaîner les parties une fois que le nombre recherché est découvert.
+
 ## Règles du Jeu
 
 1. Le système générera un nombre aléatoire entre 0 et 100.
